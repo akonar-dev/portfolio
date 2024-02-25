@@ -9,6 +9,7 @@ const Header = () => {
             <li>Academics</li>
             <li>Projects</li>
             <li>Hobbies</li>
+            <li>Achievements</li>
         </ul>
     </div>
   )
