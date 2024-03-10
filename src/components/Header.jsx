@@ -8,7 +8,7 @@ const Header = () => {
             <li>Work Experience</li>
             <li>Academics and Sports </li>
             <li>Projects</li>
-            <li>Hobbies</li>
+            <li>Hobbies and Pastimes</li>
             <li>Achievements</li>
         </ul>
     </div>
