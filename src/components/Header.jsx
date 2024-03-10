@@ -10,6 +10,7 @@ const Header = () => {
             <li>Projects</li>
             <li>Hobbies and Pastimes</li>
             <li>Achievements</li>
+            <li>Arijeet and Vignesh</li>
         </ul>
     </div>
   )
