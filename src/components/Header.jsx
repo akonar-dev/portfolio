@@ -11,6 +11,8 @@ const Header = () => {
             <li>Hobbies and Pastimes</li>
             <li>Achievements</li>
             <li>Arijeet and Vignesh</li>
+            <li>AVF</li>
+            <li>Squash</li>
         </ul>
     </div>
   )
