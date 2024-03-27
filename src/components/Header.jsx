@@ -13,6 +13,8 @@ const Header = () => {
             <li>Arijeet and Vignesh</li>
             <li>AVF</li>
             <li>Squash</li>
+            <li>Rebase</li>
+            <li>Rebase i</li>
         </ul>
     </div>
   )
