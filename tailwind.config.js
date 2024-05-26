@@ -5,8 +5,9 @@ export default {
   theme: {
     extend: {},
     colors: {
-      'header': '#68d388',
-      'body-color': '#fff5d7'
+      'header': '#00ABE4',
+      'body-color': '#E9F1FA',
+      'white':'#FFFFFFFF'
     }
   },
   plugins: [],

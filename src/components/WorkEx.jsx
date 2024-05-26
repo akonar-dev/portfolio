@@ -1,6 +1,6 @@
 const WorkEx = () => {
     return (
-        <div>
+        <div id="work-ex">
             Work Experience
         </div>
     )

@@ -3,10 +3,11 @@ import Academics from "./Academics";
 import WorkEx from "./WorkEx";
 import ContactMe from "./ContactMe";
 import Blogs from "./Blogs";
+import Projects from "./Projects";
 
 const Body = () => {
   return (
-    <div className="bg-body-color h-96 inline-flex">
+    <div className="bg-body-color h-auto inline-flex">
       <img className="h-28 p-5" src="../src/assets/DSCN4725 (1).jpg" alt="abc" />
       <div>
       <p className="p-5">Arijeet Konar</p>
@@ -14,8 +15,9 @@ const Body = () => {
       <AboutMe/>
       <WorkEx/>
       <Academics/>
-      <ContactMe/>
+      <Projects/>
       <Blogs/>
+      <ContactMe/>
       </div>
     </div>
   );

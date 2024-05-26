@@ -4,12 +4,12 @@ const Header = () => {
   return (
     <div>
         <ul className="flex flex-1 flex-wrap justify-end space-x-5 bg-header p-7">
-            <li>About Us</li>
-            <li>Work Experience</li>
-            <li>Academics</li>
-            <li>Projects</li>
-            <li>Hobbies</li>
-            <li>Achievements</li>
+            <a href="#about-me">About</a>
+            <a href="#work-ex">Work Experience</a>
+            <a href="#academics">Academics</a>
+            <a href="#projects">Projects</a>
+            <a href="#blogs">Blogs</a>
+            <a href="#contact">Lets Connect</a>
         </ul>
     </div>
   )

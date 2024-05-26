@@ -1,6 +1,6 @@
 const Academics = () => {
     return (
-        <div>Academics</div>
+        <div className="bg-white">Academics</div>
     )
 }
 
