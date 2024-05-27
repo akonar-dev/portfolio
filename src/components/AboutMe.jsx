@@ -1,7 +1,10 @@
 
 const AboutMe = () => {
     return (
-        <div id="about-me" className="bg-white h-96">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis odit esse magnam voluptatibus labore voluptates omnis vero. Ullam, magnam harum. Deserunt quibusdam aut obcaecati excepturi eligendi ex aspernatur fugiat alias?</div>
+        <div id="about-me" className="h-auto">
+        <h1>About Me</h1>
+            I am a passionate software engineer currently working as front end developer at Tata Consultacy Services Limited
+        </div>
     )
 }
 

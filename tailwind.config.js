@@ -5,9 +5,10 @@ export default {
   theme: {
     extend: {},
     colors: {
-      'header': '#00ABE4',
+      'header': '#5EBEC4',
       'body-color': '#E9F1FA',
-      'white':'#FFFFFFFF'
+      'white':'#FFFFFFFF',
+      'cream':'#FDF5DF'
     }
   },
   plugins: [],
