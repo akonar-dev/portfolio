@@ -7,8 +7,8 @@ import Projects from "./Projects";
 
 const Body = () => {
   return (
-    <div className="h-auto inline-flex bg-cream w-full">
-      <img className="h-52 border-solid border-2 rounded-lg p-2 m-5" src="../src/assets/DSCN4725 (1).jpg" alt="abc" />
+    <div className="h-auto px-10 bg-cream w-full">
+      <img className="h-52 border-solid border-2 rounded-lg p-2 my-5" src="../src/assets/DSCN4725 (1).jpg" alt="abc" />
       <div>
       <AboutMe/>
       <WorkEx/>
